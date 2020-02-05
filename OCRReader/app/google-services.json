@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966485339145",
+    "firebase_url": "https://ocr-reader-b7f1f.firebaseio.com",
+    "project_id": "ocr-reader-b7f1f",
+    "storage_bucket": "ocr-reader-b7f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966485339145:android:22366bc7ed592ef7431cd8",
+        "android_client_info": {
+          "package_name": "com.example.ocrreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966485339145-ij6d0iuj6pl53p3gj6krgrlkovqrvoah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ocrreader",
+            "certificate_hash": "ec93bdc713783741bb31d88de518110bd873bcb8"
+          }
+        },
+        {
+          "client_id": "966485339145-bs1jp428bqq5krph7jd425v3eurhdipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1brUQX93XqarjzFBt4rE0rY8qu0_Rws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966485339145-bs1jp428bqq5krph7jd425v3eurhdipb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
